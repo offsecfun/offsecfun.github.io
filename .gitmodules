@@ -1,3 +1,12 @@
 [submodule "themes/hugo-theme-next"]
 	path = themes/hugo-theme-next
 	url = https://github.com/hugo-next/hugo-theme-next.git
+[submodule "themes/terminal-cookbook"]
+	path = themes/terminal-cookbook
+	url = https://github.com/rullmann/hugo-theme-terminal-cookbook.git
+[submodule "themes/hugo-book"]
+	path = themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "themes/hugo-theme-techdoc"]
+	path = themes/hugo-theme-techdoc
+	url = https://github.com/thingsym/hugo-theme-techdoc.git
