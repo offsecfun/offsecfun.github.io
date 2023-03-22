@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://www.offsec.fun"
 
 languageCode = "zh-cn"
 DefaultContentLanguage = "zh"
@@ -62,10 +62,10 @@ enableMissingTranslationPlaceholders = false
 
     # Algolia site search section
     # See https://www.algolia.com/doc/
-    algolia_search_enable = true
-    algolia_indexName = "hugo-demo-techdoc"
-    algolia_appId = "7W4SAN4PLK"
-    algolia_apiKey = "cbf12a63ff72d9c5dc0c10c195cf9128" # Search-Only API Key
+    #algolia_search_enable = true
+    #algolia_indexName = "hugo-demo-techdoc"
+    #algolia_appId = "7W4SAN4PLK"
+    #algolia_apiKey = "cbf12a63ff72d9c5dc0c10c195cf9128" # Search-Only API Key
 
 # Global menu section
 # See https://gohugo.io/content-management/menus/
@@ -91,6 +91,7 @@ enableMissingTranslationPlaceholders = false
 
 [outputs]
     home = ["HTML", "RSS", "Algolia"]
+    home = ["HTML"]
 
 # Algolia Search configure section
 [outputFormats.Algolia]
