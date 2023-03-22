@@ -10,12 +10,7 @@ description: Kali Linux介绍
 
 ---
 
-## [安装](./installation)
+## [安装 配置](./installation)
 
 Download Hugo theme, configure, preview site ...
 
-## [配置](./configuration)
-
-You may specify options in config.toml (or config.yaml/config.json) of your site to make use of this theme's features.
-
-## [禁止使用](./block)

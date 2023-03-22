@@ -58,6 +58,7 @@ enableMissingTranslationPlaceholders = false
         "entry",
         "post",
         "posts",
+        "tools",
     ]
 
     # Algolia site search section
@@ -75,7 +76,7 @@ enableMissingTranslationPlaceholders = false
         url = "/"
         weight = 1
         identifier = 'home'
-        pre = "<i class='fa fa-heart'></i>&nbsp;"
+        pre = ""
 
 
 # Markup configure section
