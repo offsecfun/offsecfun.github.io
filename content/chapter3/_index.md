@@ -1,6 +1,5 @@
 ---
 title: "3. AD域"
-date: 2015-3-15T15:26:15Z
 draft: false
 weight: 30
 ---
