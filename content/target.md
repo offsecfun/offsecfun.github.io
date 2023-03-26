@@ -1,5 +1,5 @@
 +++
-title = "靶机推荐"
+title = "靶场推荐"
 menu = "main"
 weight= 2
 +++
