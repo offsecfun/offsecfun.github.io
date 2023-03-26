@@ -1,7 +1,5 @@
 ---
 title: "会议纪要"
-date: 2023-03-17T15:26:15Z
-draft: false
 weight: 10
 ---
 
