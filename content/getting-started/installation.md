@@ -4,5 +4,5 @@ draft: false
 weight: 10
 ---
 
-Kali官方发布公告：<https://www.kali.org/blog/kali-linux-2023-1-release/>
+Kali Linux 2023.1 官方发布公告：<https://www.kali.org/blog/kali-linux-2023-1-release/>
 
