@@ -1,6 +1,5 @@
 ---
 title: "2. 提权"
-date: 2022-02-16T15:26:15Z
 draft: false
 weight: 20
 ---

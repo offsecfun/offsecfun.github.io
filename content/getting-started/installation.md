@@ -12,4 +12,4 @@ Kali   工具文档：<https://www.kali.org/tools/>
 
 Kali Linux下载：<https://www.kali.org/get-kali/>
 
-阿里云盘备份下载：<https://pan.iihack.com/Kali Linux/2023.1>
+阿里云盘备份下载：<https://pan.iihack.com/Kali/2023.1>
