@@ -73,7 +73,7 @@ weight= 2
 | 55   | Red   | Healthcare 1:  <https://www.vulnhub.com/entry/healthcare-1,522/> |
 | 56   | Red   | Tiki-1:  <https://www.vulnhub.com/entry/tiki-1,525/>         |
 | 57   | Red   | DevGuru 1:  <https://www.vulnhub.com/entry/devguru-1,620/>  |
-| 58   | Red   | Alpha 1:  <https://www.vulnhub.com/entry/alfa-1,655/>        |
+| 58   | Red   | ~~Alpha 1:  <https://www.vulnhub.com/entry/alfa-1,655/>~~        |
 | 59   | Red   | Digitalword.local (FALL):  <https://www.vulnhub.com/entry/digitalworldlocal-fall,726/> |
 | 60   | Red   | Hack Me Please:  <https://www.vulnhub.com/entry/hack-me-please-1,731/> |
 | 61   | Blue  | Tr0ll1:  <https://www.vulnhub.com/entry/tr0ll-1,100/>        |
