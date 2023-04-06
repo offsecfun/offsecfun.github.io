@@ -19,3 +19,4 @@ Kali  工具文档：<https://www.kali.org/tools/>
 
 安装 配置 Kali Linux 使日常操作更顺手
 
+## [基操](./basic)
